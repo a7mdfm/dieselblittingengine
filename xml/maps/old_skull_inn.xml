@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<map audio="../audio/bar audio/background/bar_background.mp3">
+
+	<tiles
+		rows="8"
+		cols="11">
+	
+		<tile
+			row="8"
+			col="8"
+			value="1" />
+	
+	</tiles>
+	
+	<sprites>
+	
+		<sprite
+			row="2"
+			col="2"
+			conversation="waitress.xml" />
+			
+		<sprite
+			row="3"
+			col="4"
+			conversation="meeting_on_the_road.xml" />
+	
+	</sprites>
+
+</map>
